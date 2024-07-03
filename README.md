@@ -1,0 +1,3 @@
+- Engineered a Langchain LLM model to create a conversational document parser
+- Utilized a RAG pipeline to parse and index a document using OpenAI embeddings model
+- Stored embeddings in a FAISS vector database to inform user queries
